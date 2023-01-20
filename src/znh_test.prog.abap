@@ -6,3 +6,5 @@
 REPORT ZNH_TEST.
 
 WRITE: 'Hello world'.
+
+WRITE: 'Hello world 2'.
